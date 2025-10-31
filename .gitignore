@@ -1,0 +1,32 @@
+# Build
+build/
+.gradle/
+*.apk
+*.aar
+.idea/
+*.iml
+
+# Security
+*.keystore
+*.jks
+*.pem
+*.key
+signing.properties
+secrets.properties
+.env
+local.properties
+
+# IDE
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Databases
+*.sqlite
+*.db
+*.db-wal
+
+# Logs
+*.log
+logs/
