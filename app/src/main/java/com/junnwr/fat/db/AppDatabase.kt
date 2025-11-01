@@ -23,7 +23,7 @@ abstract class AppDatabase : RoomDatabase() {
         fun getDatabase(context: Context): AppDatabase {
             return INSTANCE ?: synchronized(this) {
                 // Verificar e deletar banco corrompido/não criptografado
-                deleteDatabaseIfCorrupted(context)
+                // deleteDatabaseIfCorrupted(context) <-- linha removida devido a exclusao dos dados
 
                 val instance = Room.databaseBuilder(
                     context.applicationContext,
