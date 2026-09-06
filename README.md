@@ -1,3 +1,20 @@
+
+
+<table>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/3066e8b3-7704-447c-9161-5d3143e5101e" width="250" controls></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/ce039c6d-d7ad-4623-832b-d327cb5a9e37" width="250" controls></video>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 # 2Fat - Autenticador TOTP Seguro e Offline
 
 Um aplicativo mobile Android que implementa autenticação de dois fatores (2FA) baseado no algoritmo TOTP (Time-Based One-Time Password) conforme RFC 6238, com criptografia AES-256 de banco de dados e operação totalmente offline.
