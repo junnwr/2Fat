@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.junnwr.fat"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.junnwr.fat"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
@@ -65,7 +65,7 @@ dependencies {
     kapt("androidx.room:room-compiler:2.6.1")
 
     // Security (EncryptedSharedPreferences)
-    implementation("androidx.security:security-crypto:1.1.0-alpha06")
+    implementation("androidx.security:security-crypto:1.1.0")
 
     // SQLCipher for encrypted database
     implementation("net.zetetic:android-database-sqlcipher:4.5.4")
