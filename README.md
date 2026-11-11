@@ -259,7 +259,7 @@ Este projeto foi desenvolvido como **Trabalho de Graduação (TG)** do curso de 
 - GILSENAN, C. et al. Security and privacy failures in popular 2FA apps. In: **32nd USENIX Security Symposium**, 2023.
 - BRASIL. Gabinete de Segurança Institucional da Presidência da República. **Autenticação Multifator (MFA) e seus desafios**. Brasília, 2023.
 - BIONI, B. R. **Proteção de Dados Pessoais: a função e os limites do consentimento**. 2. ed. Rio de Janeiro: Forense, 2020.
-- MENEZES, A.; OORSCHOT, P. v.; VANSTONE, S. **Manual de Criptografia Aplicada**. Rio de Janeiro: LTC, 2018.
+- TEMOSHOK, D. et al. Digital Identity Guidelines: Authentication and Authenticator Management. Gaithersburg, MD, 2025
 - ZETETIC LLC. **SQLCipher** - Full Database Encryption for SQLite. 2024.
 
 ## 📄 Licença
